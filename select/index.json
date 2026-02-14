@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MELLOW",
+  "base_artist": "KAFUNÉ",
+  "createdAt": "2026-02-14T08:20:48.923616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "mellow",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_mellow_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Laws Patrolling (Feat. CJ, Lil Bran & Mellow)",
+      "artist": "Mike Jones",
+      "has_synced": true,
+      "path": "select/02_Laws_Patrolling_(Feat._CJ,_Lil_Bran_&_Mellow)_Mike_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Netsky feat. Terri Pace",
+      "has_synced": true,
+      "path": "select/03_Mellow_Netsky_feat._Terri_Pace.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mellow (feat. Terri Pace)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/04_Mellow_(feat._Terri_Pace)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mellow My Mind",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/05_Mellow_My_Mind_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Georgia feat. Shygirl",
+      "has_synced": false,
+      "path": "select/06_Mellow_Georgia_feat._Shygirl.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Georgia",
+      "has_synced": false,
+      "path": "select/07_Mellow_Georgia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mellow Song",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/08_Mellow_Song_Blur.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Be Mellow When I'm Dead",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/09_I'll_Be_Mellow_When_I'm_Dead_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be Mellow When I'm Dead",
+      "artist": "\"Weird Al\" Yankovic \"Musical Mike\" Kieffer",
+      "has_synced": true,
+      "path": "select/10_I'll_Be_Mellow_When_I'm_Dead_Weird_Al__Yankovic__Musical_Mike__Kieffer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mellow My Mind",
+      "artist": "Simply Red feat. AGM, Andy Wright & Gota Yashiki and Mick Hucknall",
+      "has_synced": true,
+      "path": "select/11_Mellow_My_Mind_Simply_Red_feat._AGM,_Andy_Wright_&_Gota_Yashiki_and_Mick_Hucknall.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mellow My Mind",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/12_Mellow_My_Mind_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/13_Mellow_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "mellow yellow",
+      "artist": "Toki Asako",
+      "has_synced": true,
+      "path": "select/14_mellow_yellow_Toki_Asako.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "mellow yellow",
+      "artist": "土岐麻子",
+      "has_synced": true,
+      "path": "select/15_mellow_yellow_土岐麻子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mellow Jam",
+      "artist": "Blur",
+      "has_synced": false,
+      "path": "select/16_Mellow_Jam_Blur.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Angel Carver Blues/Mellow Jazz Docent",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/17_Angel_Carver_Blues_Mellow_Jazz_Docent_Pavement.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fine and Mellow (Live at Town Hall)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/18_Fine_and_Mellow_(Live_at_Town_Hall)_Nina_Simone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MELLOW",
+      "artist": "KAFUNÉ",
+      "has_synced": false,
+      "path": "select/pl_01_MELLOW_KAFUNÉ.txt"
+    }
+  ]
+}
